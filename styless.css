@@ -1,0 +1,6 @@
+body {
+  background-image: url(https://i.postimg.cc/SNPMntFd/image.png);
+  background-size: cover; /* Масштабируем изображение, чтобы оно заполнило весь элемент */
+  background-position: center; /* Центрируем изображение */
+  height: 50%; /* Высота элемента */
+}
